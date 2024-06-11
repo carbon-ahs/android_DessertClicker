@@ -75,6 +75,7 @@ import com.example.dessertclicker.ui.theme.DessertClickerTheme
 private const val TAG = "MainActivity"
 
 class MainActivity : ComponentActivity() {
+//    https://developer.android.com/codelabs/basic-android-kotlin-compose-practice-viewmodel?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-4-pathway-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-practice-viewmodel#5
     override fun onCreate(savedInstanceState: Bundle?) {
         enableEdgeToEdge()
         super.onCreate(savedInstanceState)
